@@ -1,0 +1,17 @@
+Html 5 - Como usar tags textos e links
+
+Tags para textos
+<h1> Título da página</h1>
+<h2> Título de seção</h2>
+<h3> Título de artigo</h3>
+
+<p> Conteúdo do artigo.</p>
+
+Tags para Links
+<a href="linkedin.com/in/jeicesantos">Linkedin</a>
+<a href="mailto:jeice.santos@gmail.com">E-mail</a>
+
+
+<a target="_blank">Link<a/> (abrir em uma nova aba)
+
+
