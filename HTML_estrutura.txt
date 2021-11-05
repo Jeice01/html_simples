@@ -1,0 +1,10 @@
+<!DOCTYPE html> -> Não é um elemento, diz ao navegador o que vc está escrevendo
+<html> -> todo o que diz respeito ao documento está dentro deste documento
+    <head>
+        <meta charset="utf-8"> ->  para dizer ao navegador qual é a codificação dos caracteres e no segundo podemos colocar nosso nome.
+        <title></title> -> coloca o título na aba do navegador
+    </head> -> fecha o head
+    <body> -> onde está o conteúdo da página
+        
+    </body>-> fecha o body
+</html>-> fecha o html
