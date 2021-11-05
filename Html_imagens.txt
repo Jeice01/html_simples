@@ -1,0 +1,7 @@
+Html 5- como incluir imagens
+
+elemento:
+<img>
+
+<img src="img/avatar.jpg"> -> é obrigatório e guarda o caminho da imagem
+<img alt="Foto de Jeice Santos"> -> é altamente recomendado, mostra a descrição da foto para mostrar para os usuários o que significa
