@@ -1,0 +1,11 @@
+Semântica
+<div> 
+
+2014 mais elementos
+<section> -> lista genérica de conteúdos
+<header> -> pode ser o cabelho de uma section, ou de parte da pág
+<article> -> conteúdo relevante
+<aside> ->representa um conteúdo relacionado ao conteúdo principal da página
+<footer> -> pode ser o rodapé da pg, ou de parte da pag
+<h1>-<h6> -> servem de trazer semântica para a pg
+		pode ter um h1 por pg
